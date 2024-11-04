@@ -1,11 +1,9 @@
 <h1 align="center">Hello 👋, I'm Wesley</h1>
-<h3 align="center">A passionate fullstack developer from Brazil 🇧🇷</h3>
+<h3 align="center">Product Owner and Full-Stack developer from Brazil 🇧🇷</h3>
 
 - 🔭 I’m currently studying at [UTFPR](http://www.utfpr.edu.br/)
 
-- 🌱 I’m currently learning **Bootstrap and React**
-
-- 💬 Ask me about **c/c++ and Unity Game DEV**
+- 🌱 I’m currently learning **System Design and Cloud Architecture**
 
 - 📫 How to reach me **wesleybr.com@gmail.com**
 
